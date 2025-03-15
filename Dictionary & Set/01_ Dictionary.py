@@ -1,7 +1,6 @@
 info = {
     "name": "Harsh",  
-    "subje]"
-    "age": 18,  
+     "age": 18,  
     "height": 5.8,  
     "married": False,  
     "hobbies": ["gaming", "searching about tech"],  
